@@ -1,0 +1,35 @@
+{
+    "name": "vlc-discord-rpc",
+    "version": "1.0.0",
+    "description": "Discord rich presence for VLC media player",
+    "main": "rpc.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pigpog/vlc-discord-rpc.git"
+    },
+    "keywords": [
+        "vlc",
+        "discord",
+        "rich-presence",
+        "rich",
+        "presence"
+    ],
+    "author": "Jared",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Pigpog/vlc-discord-rpc/issues"
+    },
+    "homepage": "https://github.com/Pigpog/vlc-discord-rpc#readme",
+    "dependencies": {
+        "discord-rich-presence": "*",
+        "droopy-vlc": "*",
+        "http": "0.0.0",
+        "node-process-windows": "0.0.2",
+        "readline": "^1.3.0",
+        "request-promise-native": "^1.0.5",
+        "stream": "0.0.2"
+    }
+}

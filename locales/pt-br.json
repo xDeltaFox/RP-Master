@@ -1,0 +1,11 @@
+{
+    "locale": "PT-BR",
+    "vlc": {
+        "not_playing": {
+            "state_text": "Parado",
+            "details_text": "O que esperava que estivesse escrito?",
+            "largeImageKey_text": "vlc",
+            "smallImageKey_text": "Parado"
+        }
+    }
+}
